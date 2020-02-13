@@ -1,0 +1,7 @@
+counter = 1
+players = 10
+
+for i in range(players):
+	print("Player ", )
+
+i+1
